@@ -1,0 +1,8 @@
+.emojiContainer {
+  list-style-type: none;
+}
+
+.emoji {
+  height: 65%;
+  cursor: pointer;
+}
